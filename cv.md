@@ -2,7 +2,7 @@
 
 ## Contact
 - E-mail: **rykowski.krzysztof@gmail.com**
-- GitHub: **https://github.com/chrisryk**
+- [GitHub](https://github.com/chrisryk)
 
 ## About myself
 My main goals are learning and developing programming skills in C#, SQL and web applications to be a full-stack develeper and work with HTML, CSS, JavaScript and ASP.NET.
