@@ -38,7 +38,7 @@ public static class DiffieHellman
 ## Experience
 No experience yet.
 ## Education
-10.2021 - present
+10.2021 - present\
 University of Lodz - Information Technologies - postgraduate studies
 
 Udemy - HTML, CSS, JavaScript, C#
